@@ -8,8 +8,8 @@ Usage  - >
 To use the Booking.com Web Scraping Bot, follow these steps:
 
 Clone the repository to your local machine.
-Install the required dependencies (see Installation).
-Configure the necessary settings (see Configuration).
+Install the required dependencies.
+Configure the necessary settings.
 Run the run.py script to initiate the bot's front end.
 Follow the on-screen prompts to specify your preferences and actions.
 The bot will then carry out the requested actions, interact with the Booking.com website, and generate a detailed report of the collected hotel data.
